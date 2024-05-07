@@ -46,9 +46,9 @@ Next state of D flip-flop is always equal to data input, D for every positive tr
 
 /* Program for flipflops and verify its truth table in quartus using Verilog programming. 
 
-Developed by: HEMA LOKITHA P
+Developed by: SANTHOSH KUMAR.S
 
-RegisterNumber:21223110014
+RegisterNumber:212222053004
 */
 ```
 module DFLIPFLOPNEGEDGE(D,Clock,reset,Q);
